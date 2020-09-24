@@ -1,0 +1,22 @@
+{
+  "name": "gcptestavapi",
+  "version": "1.0.0",
+  "description": "this is a test repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirivelliAravind/GCPTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirivelliAravind/GCPTest/issues"
+  },
+  "homepage": "https://github.com/SirivelliAravind/GCPTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
